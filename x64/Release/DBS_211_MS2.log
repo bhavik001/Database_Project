@@ -1,0 +1,6 @@
+﻿  AS_P2_ID.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 146 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DBS_211_MS2.vcxproj -> D:\Sem_2\DBS 211\project\DBS_211_MS2\x64\Release\DBS_211_MS2.exe
